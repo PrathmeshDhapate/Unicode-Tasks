@@ -1,0 +1,190 @@
+.Page_1 {
+    height:18vh;
+}
+
+.Header1 {
+    display:flex;
+    justify-content:space-between;
+    margin:60px 100px;
+    align-items:center;
+}
+.Container1 {
+   display:flex;
+   justify-content:space-evenly;
+   margin-left:300px;
+}
+
+span {
+    font-size:large;
+    margin-left:200px;
+}
+
+.Container1 > div {
+    width:50%;
+}
+
+.specialtitles {
+    font-size:4rem;
+    font-weight:bold;
+    margin:25px;
+}
+.Menu {
+    height:55px;
+    width:110px;
+    background-color:black;
+    color:white;
+    border-radius:5px;
+    border-top-left-radius:20px;
+    border-bottom-right-radius:20px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    font-size: medium;
+    border: none;
+}
+.BookTable {
+    height:55px;
+    width:150px;
+    background-color:#f66d35 ;
+    color:white;
+    border-radius:5px;
+    border-top-left-radius:20px;
+    border-bottom-right-radius:20px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    margin-left: 32px;
+    font-size: medium;
+    border: none;
+}
+
+.Restaurantpic {
+    border-top-left-radius:50px;
+    border-bottom-right-radius:50px;
+    border-top-right-radius:20px;
+    border-bottom-left-radius:20px;
+    height:43rem;
+    width:33rem;
+    margin-right:80px;
+}
+
+
+.Header1 > button {
+    margin-left: auto;
+    font-size:medium;
+}
+
+.title_paragraph {
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+}
+
+.Container2 {
+ display:flex;
+ justify-content:center;
+ gap:20px;
+ margin-top:50px;
+}
+
+ .Container2 > div >.FoodName p {
+    background-color:black;
+    color:white;
+}
+.Container3 {
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.btnbook {
+   background-color:#f66d35;
+   color:white;
+   height:60px;
+   width:140px;
+   border:none;
+   border-radius:10px 5px;
+   font-family:'Franklin Gothic Medium',sans-serif;
+   margin-right:130px;
+}
+
+.navigate {
+    display:flex;
+    justify-content:flex-end;
+    align-items:center;
+}
+
+.navigate ul {
+    list-style:none;
+    display:flex;
+    gap:20px;
+}
+
+.navigate ul li a {
+    text-decoration:none;
+    color:black;
+    padding:5px 10px;
+    font-size:large;
+}
+ 
+.Welcome h2 {
+   display:flex;
+   flex-direction:column;
+   align-items:center; 
+   font-size:3rem;
+}
+
+.btn #menu{
+    height:55px;
+    width:110px;
+    background-color:black;
+    color:white;
+    border-radius:5px;
+    border-top-left-radius:20px;
+    border-bottom-right-radius:20px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    font-size: medium;
+    border: none;
+}
+
+.btn #book {
+    height:55px;
+    width:150px;
+    background-color:#f66d35 ;
+    color:white;
+    border-radius:5px;
+    border-top-left-radius:20px;
+    border-bottom-right-radius:20px;
+    border-top-right-radius:5px;
+    border-bottom-left-radius:5px;
+    margin-left: 32px;
+    font-size: medium;
+    border: none; 
+}
+
+
+.Page_2,.Page_3 {
+    margin-top:200px;
+}
+
+.navigation {
+    flex:1;
+    margin-right:350px;
+}
+
+.Container1btn {
+    margin-top:50px;
+}
+
+.Container2 > div > img {
+    height:206px;
+    width:206px;
+}
+
+.align {
+    text-align:center;
+}
+
+.titles {
+    font-size:4rem;
+    font-weight:bold;
+}
